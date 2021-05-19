@@ -25,11 +25,11 @@ TeleRetail | Switzerland, Düsseldorf, California | 3-wheeled, one cargo space, 
 Udelv  | California (USA) | autonomous minivans and smaller road vehicles with integrated parcel storage | test operations since ca. 2018 |
 
 
-## News 
+## News and press updates 
 
 - [Last mile delivery as killer app for autonomous driving in china (October 2018)](https://dl.acm.org/doi/pdf/10.1145/3239552)
 
-## Studies
+## Studies and market overviews
 
 - [Innovationen auf der letzten Meile. Nachhaltigkeitsstudie 2017, Bundesverband Paket und Expresslogistik](https://www.biek.de/download.html?getfile=508)
 - [Parcel delivery: The future of last mile. McKinsey & Company](https://www.mckinsey.com/~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/how%20customer%20demands%20are%20reshaping%20last%20mile%20delivery/parcel_delivery_the_future_of_last_mile.ashx)
@@ -39,6 +39,7 @@ Udelv  | California (USA) | autonomous minivans and smaller road vehicles with i
 
 - Marsden, Nicola, et al. "BUGA: Log–A Real-World Laboratory Approach to Designing an Automated Transport System for Goods in Urban Areas." 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC). IEEE, 2018. https://ieeexplore.ieee.org/document/8436361
 - Sindi, Safaa, and Roger Woodman. "Autonomous Goods Vehicles for Last-mile Delivery: Evaluation of Impact and Barriers." 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020. https://core.ac.uk/reader/326514030
+- Vastag, Alex, and Maximilian Schellert. "Autonome Fahrzeuge in der innerstädtischen Paketzustellung." Handbuch Industrie 4.0. Springer Vieweg, Berlin, Heidelberg, 2020. 205-224.https://link.springer.com/chapter/10.1007%2F978-3-662-58530-6_101
 
 ## Contribute
 Pull requests on new technologies and project updates are welcome.
