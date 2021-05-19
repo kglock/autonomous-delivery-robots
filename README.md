@@ -12,10 +12,12 @@ ANYbotics/ Continental | Zurich | four-legged robot, in combination with autonom
 Boxbot | California (USA) | autonomous truck as well as small 4-wheeled robots with individually accessible compartments | n.a. | 
 Eliport | Barcelona, Spain | 4-wheeled, equipped with loading/unloading mechanisms | n.a. | 
 FedEx SameDay Bot | US states | 6-wheeled, wheels adjustable for height, for pedestrian walkways, one enclosed cargo space | tests announced, status unclear 
+JD Logistics | China | 4-wheeled, with individual parcel compartments | prototypes in operation since 2020 |  
 Kiwibot | California (USA) | 4-wheeled, for pedestrian walkways, one cargo space | test operations since 2017, mainly food delivery |  
+Meituan | China | 4-wheeled with individual parcel compartments | prototypes in operation since 2020 | 
 Neolix | China | autonomous small car, suitable for road traffic, different concepts depending on purpose | prototypes for catering and parcel delivery since approx. 2019 | 
 Nuro | 	Houston, San Jose, Phoenix (USA) | small autonomous delivery vehicle driving on streets, two larger loading spaces | test phase since 2018 | 
-Postmates Serve | California (USA) | 4-wheeled, for pavement, one cargo space | prototypes for food delivery ca. 2018 / 2019 | 
+Postmates Serve | California (USA) | 4-wheeled, for walkways, one cargo space | prototypes for food delivery ca. 2018 / 2019 | 
 Refraction AI | Michigan, USA | 3-wheeled, on car or bike lane, one cargo compartment | prototype in test use 2021 | 
 Robby Technologies | USA | 6-wheeled, for walkways, one cargo space | demonstration project ("Snackbot") since ca. 2019 | 
 Starship Technologies  | San Francisco (USA), Hamburg, Schweiz, etc. | 6-wheeled vehicle moving on pedestrian walkways, single loading space | pilot projects since 2016, commercial use for food delivery since 2017 | 
