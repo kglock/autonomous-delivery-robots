@@ -1,5 +1,5 @@
 # Autonomous delivery robots
-An overview of the state-of-the-art in autonomous delivery robots
+An overview of the state-of-the-art 
 
 
 ## Development projects and status
@@ -23,11 +23,35 @@ TeleRetail | Switzerland, Düsseldorf, California | 3-wheeled, one cargo space, 
 Udelv  | California (USA) | autonomous minivans and smaller road vehicles with integrated parcel storage | test operations since ca. 2018 |
 
 
+## News 
+
+- [Last mile delivery as killer app for autonomous driving in china (October 2018)](https://dl.acm.org/doi/pdf/10.1145/3239552)
+
+## Studies
+
+- [Innovationen auf der letzten Meile. Nachhaltigkeitsstudie 2017, Bundesverband Paket und Expresslogistik](https://www.biek.de/download.html?getfile=508)
+- [Parcel delivery: The future of last mile. McKinsey & Company](https://www.mckinsey.com/~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/how%20customer%20demands%20are%20reshaping%20last%20mile%20delivery/parcel_delivery_the_future_of_last_mile.ashx)
+- [Aufbruch auf der letzten Meile – Neue Wege für die städtische Logistik. PricewaterhousCoopers GmbH Wirtschafsprüfungsgesellschaft](https://www.pwc.de/de/transport-und-logistik/aufbruch-auf-der-letzten-meile-neue-wege-fuer-die-staedtische-logistik.html)
+
 ## Research papers
 
-
+- Marsden, Nicola, et al. "BUGA: Log–A Real-World Laboratory Approach to Designing an Automated Transport System for Goods in Urban Areas." 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC). IEEE, 2018. https://ieeexplore.ieee.org/document/8436361
+- Sindi, Safaa, and Roger Woodman. "Autonomous Goods Vehicles for Last-mile Delivery: Evaluation of Impact and Barriers." 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020. https://core.ac.uk/reader/326514030
 
 ## Contribute
 Pull requests on new technologies and project updates are welcome.
 
 
+## Cite
+
+If you find this work useful, please cite:
+```
+@misc{glock2021,
+  author = {Glock, Katharina and Meyer, Anne},
+  title = {Autonomous delivery robots. An overview of the state-of-the-art},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/kglock/autonomous-delivery-robots}}
+}
+```
