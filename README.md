@@ -6,12 +6,12 @@ An overview of the state-of-the-art
 
 | Who/what   | Where   |  Vehicle details   |  Tests and deployment status   | Links  |
 --- | --- | --- | --- | ---
-Alibaba Xiaomanlv | 4-wheeled autonomous small vehicles, different types depending on application | test operations on university campus | 
+Alibaba Xiaomanlv | China | 4-wheeled autonomous small vehicles, different types depending on application | test operations on university campus | 
 Amazon Scout | US states | 6-wheeled for walkways, one enclosed cargo space | pilot phase since 2019, currently daytime only, with manual escort |
 ANYbotics/ Continental | Zurich | four-legged robot, in combination with autonomous shuttle |	Showcase 2018/2019
 Boxbot | California (USA) | autonomous truck as well as small 4-wheeled robots with individually accessible compartments | n.a. | 
 Eliport | Barcelona, Spain | 4-wheeled, equipped with loading/unloading mechanisms | n.a. | 
-FedEx SameDay Bot | | 6-wheeled, wheels adjustable for height, for pedestrian walkways, one enclosed cargo space | tests announced, status unclear 
+FedEx SameDay Bot | US states | 6-wheeled, wheels adjustable for height, for pedestrian walkways, one enclosed cargo space | tests announced, status unclear 
 Kiwibot | California (USA) | 4-wheeled, for pedestrian walkways, one cargo space | test operations since 2017, mainly food delivery |  
 Neolix | China | autonomous small car, suitable for road traffic, different concepts depending on purpose | prototypes for catering and parcel delivery since approx. 2019 | 
 Nuro | 	Houston, San Jose, Phoenix (USA) | small autonomous delivery vehicle driving on streets, two larger loading spaces | test phase since 2018 | 
