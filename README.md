@@ -28,6 +28,7 @@ Udelv  | California (USA) | autonomous minivans and smaller road vehicles with i
 ## News and press updates 
 
 - [Last mile delivery as killer app for autonomous driving in china (October 2018)](https://dl.acm.org/doi/pdf/10.1145/3239552)
+- [Efficient and sustainable last-mile logistics: Lessons from Japan (13.05.2021)](https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/efficient-and-sustainable-last-mile-logistics-lessons-from-japan?cid=other-eml-alt-mip-mck&hdpid=94cf1d38-2e8b-48c3-943b-2d67d7ce12fc&hctky=12628687&hlkid=40c1da10f0db492285b2b3cb784f577f#)
 
 ## Studies and market overviews
 
