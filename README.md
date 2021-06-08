@@ -53,7 +53,7 @@ Pull requests on new technologies and project updates are welcome.
 If you find this work useful, please cite:
 ```
 @misc{glock2021,
-  author = {Glock, Katharina and Meyer, Anne},
+  author = {Glock, Katharina and Meyer, Anne and Wagenblatt, Jakob},
   title = {Autonomous delivery robots. An overview of the state-of-the-art},
   year = {2021},
   publisher = {GitHub},
